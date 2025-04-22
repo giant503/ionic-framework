@@ -40,11 +40,7 @@ The [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) i
 It is the perfect starting point for learning and building your own app.
 
 
-### Future Goals
 
-As Ionic Framework components migrate to the web component standard, a goal of ours is to have Ionic Framework easily work within all of the popular frameworks.
-
-### Earlier Versions
 
 The source code for earlier versions of the Ionic Framework may exist in other repositories. Please open issues and pull requests in their respective repositories.
 
